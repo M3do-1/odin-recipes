@@ -1,1 +1,2 @@
 # odin-recipes
+This Project is my first Odin Project page that will display a list of recipes, and this project would be listed in my main website where I would showcase the list of projects I have created in my journey.
