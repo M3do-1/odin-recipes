@@ -1,8 +1,9 @@
+/* Each tag is a Declaration Block */
 .read, .unread {
   color: white;
   background-color: black;
 }
 
 .headerr {
-  color: blue;
+  color: crimson;
 }
