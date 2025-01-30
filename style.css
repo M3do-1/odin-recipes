@@ -4,6 +4,38 @@
   background-color: black;
 }
 
+* {
+  background-color: rgb(186, 186, 186);
+}
+
 .headerr {
-  color: crimson;
+  color: rgb(136, 60, 106);
+  margin: auto 20px;
+}
+
+ul {
+  list-style: none; /* Remove default bullets */
+  padding-left: 30px; /* Ensure space for custom bullets */
+}
+
+ul li {
+  background-image: url(./images/list_icon.png);
+  background-size: 25px 25px; /* Adjust size */
+  background-repeat: no-repeat;
+  background-position: left center;
+  padding-left: 30px; /* Space for the icon */
+}
+
+a {
+  text-decoration: none;
+  color: rgb(5, 26, 69);
+  font-size: 20px;
+}
+.divv {
+  justify-self: center;
+  margin: 0;
+  transform: translateY(250%);
+  border: 3px solid rgb(5, 26, 69);
+  border-radius: 8px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
 }
